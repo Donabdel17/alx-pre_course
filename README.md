@@ -1,5 +1,1 @@
-first readme
-^Âc
-root
-ls
-cd
+another readme fot 0x01.git
